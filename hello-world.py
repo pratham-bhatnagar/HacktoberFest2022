@@ -1,0 +1,1 @@
+print("Hello, Hacktoberfest'22 SRMIST")
